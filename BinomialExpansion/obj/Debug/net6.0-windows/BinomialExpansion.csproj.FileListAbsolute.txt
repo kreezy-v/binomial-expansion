@@ -1,0 +1,17 @@
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\bin\Debug\net6.0-windows\BinomialExpansion.exe
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\bin\Debug\net6.0-windows\BinomialExpansion.deps.json
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\bin\Debug\net6.0-windows\BinomialExpansion.runtimeconfig.json
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\bin\Debug\net6.0-windows\BinomialExpansion.dll
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\bin\Debug\net6.0-windows\BinomialExpansion.pdb
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.Form1.resources
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.AssemblyInfo.cs
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.dll
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\refint\BinomialExpansion.dll
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.pdb
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\BinomialExpansion.genruntimeconfig.cache
+C:\Users\valen\source\repos\BinomialExpansion\BinomialExpansion\obj\Debug\net6.0-windows\ref\BinomialExpansion.dll
